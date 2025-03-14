@@ -1,5 +1,6 @@
 fun main() {
-   ikan ()
+   ikan()
+    var 1 = "1"
 }
 
 fun ikan () {
@@ -7,3 +8,4 @@ fun ikan () {
     print("jenis jenis ikan yang didalam tabung adalah ikan ")
     println(spesies[2])
 }
+

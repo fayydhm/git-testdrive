@@ -1,11 +1,8 @@
-fun main() {
-   ikan()
-    var 1 = "1"
-}
+fun main () {
+    var pemain = "Lionel messi"
+    var punggung = "10"
+    punggung = "30"
 
-fun ikan () {
-    val spesies = mutableListOf("paus", "Hiu", "barakuda")
-    print("jenis jenis ikan yang didalam tabung adalah ikan ")
-    println(spesies[2])
+println("$pemain ber nomor punggung $punggung")
 }
 
